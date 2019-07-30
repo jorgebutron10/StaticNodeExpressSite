@@ -1,0 +1,88 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A random quote will be printed when button is clicked",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": " https://jorgebutron10.github.io/rQuoteProject1/",
+            "github_link": "https://github.com/jorgebutron10/rQuoteProject1.git",
+            "image_urls": [
+                "../static/images/RandomQuote/RQ550x550.png",
+                "../static/images/RandomQuote/RQ1200x550.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination",
+            "description": "A list of shuffled students with real time search",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": " https://jorgebutron10.github.io/Students/",
+            "github_link": "https://github.com/jorgebutron10/Students.git",
+            "image_urls": [
+                "../static/images/pagination/Page550x550.png",
+                "../static/images/pagination/Page1200x550.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Form Validation",
+            "description": "An interactive form",
+            "technologies": [
+                "javascript",
+                "css",
+                "html",
+                "JQuery"
+            ],
+            "live_link": " https://jorgebutron10.github.io/Interactive-Form/",
+            "github_link": "https://github.com/jorgebutron10/Interactive-Form.git",
+            "image_urls": [
+                "../static/images/interactiveform/Form550x550.png",
+                "../static/images/interactiveform/Form1200x550.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game",
+            "description": "Guess what the phrase is, before your tries are over!",
+            "technologies": [
+                "javascript",
+                "css",
+                "html",
+                "JQuery",
+                "AJAX"
+            ],
+            "live_link": "https://jorgebutron10.github.io/OOP-Game-App/",
+            "github_link": "https://github.com/jorgebutron10/OOP-Game-App.git",
+            "image_urls": [
+                "../static/images/PhraseHunterGame/Game550x550.png",
+                "../static/images/PhraseHunterGame/Game1200x550.png"
+            ]
+        } ,
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "Here is an example of gathering external data to populate a list. This type of service is known as Public API.",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": " https://jorgebutron10.github.io/Public_API/",
+            "github_link": "https://github.com/jorgebutron10/Public_API.git",
+            "image_urls": [
+                "../static/images/PublicAPI/API550x550.png",
+                "../static/images/PublicAPI/API1200x550.png"
+            ]
+        }
+
+    ]
+}
