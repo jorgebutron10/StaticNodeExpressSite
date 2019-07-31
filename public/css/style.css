@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,p{
   }
 
   p{
-    font-size: 18px;
+    font-size: 15px;
     color: white;
   }
 
@@ -98,7 +98,7 @@ a:hover{
  .portfolio-breadcrumb a{
    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
    font-weight: 600;
-   font-size: 13px;
+   font-size: 10px;
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
@@ -112,7 +112,7 @@ a:hover{
 
 .portfolio-intro p{
   border-bottom: 1px solid #eaeaea;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 }
 
 .portfolio-index{
@@ -165,7 +165,7 @@ a:hover{
 
 .portfolio-index .cell img{
 transition: all .9s ease-in-out;
- }  
+ }
 
 .portfolio-index .cell:hover {
   transform: scale(1.1);
