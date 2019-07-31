@@ -2319,7 +2319,9 @@ dl {
   line-height: 1.6; }
 
 li {
-  font-size: inherit; }
+  font-size: inherit;
+  text-transform: uppercase;
+}
 
 ul {
   margin-left: 1.25rem;

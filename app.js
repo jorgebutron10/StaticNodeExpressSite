@@ -20,7 +20,7 @@ app.use((req, res, next) => {
 });
 app.use((err, req, res, next) => {
     res.locals.error = err;
-    res.status(err.status || 500);
+    res.status(err.status);
     console.log(err + '')
     res.render('error');
 })

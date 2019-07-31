@@ -12,7 +12,7 @@ block content
         h6 Technologies
         ul
           each tech in technologies
-            li #{tech}
+            li= tech
         a.button.expanded(href=`${live_link}`) Live Demo
         a.button.expanded(href=`${github_link}`) GitHub Repo
     each image in image_urls
